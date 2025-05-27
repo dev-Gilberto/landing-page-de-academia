@@ -221,6 +221,8 @@ button {
     }
 
     button {
+        display: block;
+        margin: auto;
         width: 65%;
         border: 0.5px solid #273750;
         border-radius: 20px;
