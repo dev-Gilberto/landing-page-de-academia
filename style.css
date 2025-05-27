@@ -58,7 +58,7 @@ header > ul > li > a:hover {
 
 
 header > img {
-    padding-left: 5px;
+    padding-left: 10px;
     padding-top: 5px;
     width: 35px;
 }
@@ -67,16 +67,16 @@ section#info {
     width: 50%;
     text-align: center;
 
-    margin-top: 6%;
+    margin-top: 3.1%;
     margin-left: 10px;
 }
 
 section#info > h1 {
     font-size: 1.5em;
     
-    padding-bottom: 5px;
+    padding-bottom: 3px;
     font-family: var(--font1);
-    color: #273750;
+    color: #273750ee;
 
 }
 
